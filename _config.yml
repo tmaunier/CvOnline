@@ -9,14 +9,15 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Bob Belcher"
-resume_title:                   "Restaurant Owner"
-resume_contact_email:           "bbelcher@bobsburgers.com"
-resume_contact_telephone:       "123-4567"
-resume_contact_address:         "Ocean Avenue, Long Island, NY"
-resume_header_contact_info: "Ocean Avenue, Long Island, NY | 123-4567 | bbelcher@bobsburgers.com"
-resume_header_intro: "<p>Phenomenal burger chef with previous experience in cooking competitions and morning show appearances</p>"
+resume_avatar:                  "jfk"
+resume_name:                    "John Fitzgerald Kennedy"
+resume_title:                   "DeadMan"
+resume_contact_email:           "JFK@getshootedinthehead.ded"
+resume_contact_telephone:       "000-000-000"
+resume_contact_address:         "Grave number 456, Central Graveyard, NY"
+resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+resume_header_intro: "<p>I got killed by an anonymous guy who obviously didn't like me :( </p>"
+>>>>>>> username-config
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
